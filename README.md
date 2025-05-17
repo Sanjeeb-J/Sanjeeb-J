@@ -10,7 +10,7 @@
 
 🌱 I’m currently learning **HTML, CSS, JavaScript**
 
-👨‍💻 All of my projects are available at [GitHub/](https://github.com/Sanjeeb-J)
+👨‍💻 All of my projects are available at [GitHub](https://github.com/Sanjeeb-J)
 
 📫 How to reach me **sanjeebkodoth@gmail.com**
 </div>
