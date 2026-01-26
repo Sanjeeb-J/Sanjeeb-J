@@ -103,6 +103,8 @@ I believe growth comes from **consistent effort**, not shortcuts.
 
 <br/><br/>
 
+<h3>Monthly Activity</h3>
+ 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjeeb-J&bg_color=1e1e1e&color=d0d0d0&line=ffffff&point=ffffff" />
 
 </div>
