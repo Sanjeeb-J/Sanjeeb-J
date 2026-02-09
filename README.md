@@ -97,9 +97,9 @@ I believe growth comes from **consistent effort**, not shortcuts.
 
 <div align="center"> 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sanjeeb-J&show_icons=true&bg_color=1e1e1e&title_color=ffffff&text_color=d0d0d0&icon_color=ffffff" />
+<img src="https://github-readme-stats-gamma-one-49.vercel.app/api?username=Sanjeeb-J&show_icons=true&bg_color=1e1e1e&title_color=ffffff&text_color=d0d0d0&icon_color=ffffff" />
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Sanjeeb-J&theme=dark&background=1e1e1e&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=d0d0d0&sideLabels=d0d0d0&dates=9a9a9a" />
+<img src="https://github-streak-stats-pi.vercel.app?user=Sanjeeb-J&theme=dark&background=1e1e1e&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=d0d0d0&sideLabels=d0d0d0&dates=9a9a9a" />
 
 <br/><br/>
 
